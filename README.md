@@ -2,7 +2,8 @@
 
 ![galleryOfCards](https://user-images.githubusercontent.com/70330757/212972722-8e995aa0-22dd-4955-a305-831f08c1113b.png)
 
-![slider-sources](https://user-images.githubusercontent.com/70330757/212972741-3eaa3894-0055-4800-a2ec-25bbd8b2bf80.png)
+![slider-sources](https://user-images.githubusercontent.com/70330757/212974084-ea671c63-2e2e-48ae-8a2e-d69440134f71.png)
+
 
 # MY 3 MINI PROJECTS !
 
