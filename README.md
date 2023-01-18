@@ -11,7 +11,7 @@ https://slider-sources.netlify.app
 
 
 
-[<img src="https://icons8.com/icon/MaebDXXqezCf/button" width="25"/>](https://slider-sources.netlify.app)
+[<img src="https://icons8.com/icon/MaebDXXqezCf/button.png" width="25"/>](https://slider-sources.netlify.app)
 
 
 # MY 3 MINI PROJECTS !
