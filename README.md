@@ -17,10 +17,10 @@ https://slider-sources.netlify.app
 <a href="https://www.freepnglogos.com/pics/button" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/button-png/expences-button-clip-art-clkerm-vector-clip-18.png" width="20" alt="expences button clip art clkerm vector clip" /></a>
 
 
-<img src="https://www.kindpng.com/picc/m/133-1333214_click-here-png-icon-click-here-button-transparent.png" alt="Click Here Png - Icon Click Here Button, Transparent Png@kindpng.com">
+<img src="https://www.kindpng.com/picc/m/133-1333214_click-here-png-icon-click-here-button-transparent.png" width="40" alt="Click Here Png - Icon Click Here Button, Transparent Png@kindpng.com">
 
 
-<img src="https://www.nicepng.com/png/detail/274-2749960_click-here-now.png" width="20" alt="Click Here Now@nicepng.com">
+<img src="https://www.nicepng.com/png/detail/274-2749960_click-here-now.png" width="50" alt="Click Here Now@nicepng.com">
 
 
 
