@@ -11,9 +11,8 @@ https://slider-sources.netlify.app
 
 
 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
+[<img src="https://icons8.com/icon/MaebDXXqezCf/button" width="25"/>]Download(https://slider-sources.netlify.app)
 
-[Download width="25"/>](https://slider-sources.netlify.app)
 
 # MY 3 MINI PROJECTS !
 
